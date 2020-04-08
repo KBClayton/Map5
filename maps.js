@@ -18,7 +18,7 @@ $(document).ready(function() {
                 });
                 point_001.setMap(map); 
                     
-                var location_002={lat: 32.501725, lng: -97.626662}
+                var location_002={lat: 33.641335, lng:  -96.596741}
 
                 var point_002 = new google.maps.Marker({
                     position: location_002,
@@ -36,7 +36,7 @@ $(document).ready(function() {
                 var location_004={lat: 33.642945, lng: -96.595106}
                 var point_004 = new google.maps.Marker({
                     position: location_004,
-                    title: "Northeast point of VCP area"
+                    title: "Approximate Northeast point of VCP area"
                 });
                 point_004.setMap(map); 
 
